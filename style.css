@@ -18,3 +18,11 @@
 .navbar navbar-expand-lg navbar-light bg-light{
     background-color: grey;
 }
+.conc{
+    background-color: blueviolet;
+    color: white;
+    padding: 8px;
+    width: 35%;
+    border-radius: 8px;
+    margin-left: 35%;
+}
